@@ -49,7 +49,7 @@
 
 [Link to Checkout Times for Users:](https://public.tableau.com/shared/DQZ5PST8Z?:display_count=n&:origin=viz_share_link)
 
-![](Images/UserCheckoutTimes.png)
+![](Images/UserCheckoutTimes.PNG)
 
 
 #### We created another vizualisation for the same checkout times, but based on gender. We clearly see that checkout times are mainly similar between males and females, but male riders are the primarly riders.
